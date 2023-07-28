@@ -64,4 +64,4 @@ number of imaginary-time points has a corresponding grid tabulation:
 use api_utilites, only: gx_check_ntau, gx_get_error_message
 
 call gx_check_ntau(ntau, msg, ierr)
----
+```
